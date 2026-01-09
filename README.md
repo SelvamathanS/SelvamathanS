@@ -31,9 +31,10 @@ I’m an AI and software developer focused on building **practical, real-world a
 
 ## 📫 Connect With Me
 
-* 🔗 **GitHub:** [https://github.com/SelvamathanS](https://github.com/SelvamathanS)
-* 🔗 **LinkedIn:** [https://linkedin.com/in/selvamathan3006](https://linkedin.com/in/selvamathan3006)
+* 🔗 **GitHub:** [github.com/SelvamathanS](https://github.com/SelvamathanS)  
+* 🔗 **LinkedIn:** [linkedin.com/in/selvamathan3006](https://linkedin.com/in/selvamathan3006)  
 * 📧 **Email:** [selvamathans306@gmail.com](mailto:selvamathans306@gmail.com)
+
 
 ---
 
